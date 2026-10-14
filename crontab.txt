@@ -1,0 +1,2 @@
+* * * * *   /srv/levels_docx_example/ensure_workers.sh
+*/10 * * * * python3 /srv/levels_docx_example/cleanup.py >> /srv/levels_docx_example/logs/cleanup.log 2>&1
