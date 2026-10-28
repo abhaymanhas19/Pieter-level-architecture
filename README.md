@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Piter-level-architecture
 
 In corporate tech, software architecture is usually optimized for infinite scale, high availability, and large engineering teams. Pieter Levels’ architecture is optimized for speed-to-market, absolute cost-minimization, and solo-operator survival
